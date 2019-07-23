@@ -1,1 +1,1 @@
-{'434361': {'geometry': {'type': 'Point', 'coordinates': [-122.32770666666667, 47.60869666666667]}, 'type': 'Feature', 'properties': {'time': 1563699613, 'jump_ebike_battery_level': '38%', 'bike_id': 'bike_213486', 'name': '53862'}}}
+{"434361": {"geometry": {"type": "Point", "coordinates": [-122.32770666666667, 47.60869666666667]}, "type": "Feature", "properties": {"time": 1563699613, "jump_ebike_battery_level": "38%", "bike_id": "bike_213486", "name": "53862"}}}
